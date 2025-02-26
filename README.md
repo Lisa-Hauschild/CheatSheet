@@ -5,7 +5,7 @@ Wie Ihr sehen könnt, habe ich schonmal angefangen ein ultrahässliches Cheat-Sh
 
 Bitte verändert alles was ihr wollt, es ist zum Üben gedacht. Am besten wäre es wenn wir irgendwie die allerwichtigsten Commands und Konzepte aufschreiben und alles andere auslassen, wenn ihr denkt irgendwas ist zuviel, dann löscht es gerne raus und wenn es euch zu wenig Info ist, dann fürgt gerne was hinzu. ( wenn Ihr Zeit und Lust dazu  habt)
 
-🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋
+🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊
 
 
 <strong>Grundlegende Befehle</strong>
