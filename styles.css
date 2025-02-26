@@ -1,0 +1,35 @@
+body {
+
+    background-color:rgb(134, 173, 168);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+h1 {
+
+    text-align: center;
+}
+
+.card {
+    border: 3px solid black;
+    padding: 2rem;
+    border-radius: 10px;
+    text-align: center;
+    position: relative;
+  }
+  
+article {
+
+    background-color: rgb(142, 147, 164);
+    margin :2rem;
+}
+ 
+  li {
+    text-align: start;
+    padding: 0.25rem;
+  }
+  
+  .card-list__item {
+    margin: 0 0 4rem;
+  }
+    
