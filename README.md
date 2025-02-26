@@ -1,11 +1,11 @@
 # CheatSheet📘
-GIT = ...create a new repository on the command line
-git switch -c newbranch
-git commit -m "first commit"
-git remote add origin git@github.com:Lisa-Hauschild/CheatSheet.git
-git push -u origin main
-git merge main 
-git clone SSH-key 🔑
+
+
+Wie Ihr sehen könnt, habe ich schonmal angefangen ein ultrahässliches Cheat-Sheet aufzustellen. Wie wir das genau machen, ob wir das als Webseite gestalten etc habe ich noch nicht ganz durchdacht, aber es ist schonmal deployed und ihr könntet dran rumbasteln, wenn ihr Boch drauf habt. Bis jetzt gibt es nur 2 Karten in der HTML, vll könnten wir da weitermachen oder mit kommentaren Dinge erklären. 
+
+Bitte verändert alles was ihr wollt, es ist zum Üben gedacht. Am besten wäre es wenn wir irgendwie die allerwichtigsten Commands und Konzepte aufschreiben und alles andere auslassen, wenn ihr denkt irgendwas ist zuviel, dann löscht es gerne raus und wenn es euch zu wenig Info ist, dann fürgt gerne was hinzu. ( wenn Ihr Zeit und LUst dazu  habt)
+
+🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊🐋🌊
 
 
 <strong>Grundlegende Befehle</strong>
