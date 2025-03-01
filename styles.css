@@ -17,7 +17,13 @@ h1 {
     text-align: center;
     position: relative;
   }
-  
+
+#grad1 {
+	height:15rem;
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to bottom right, red, yellow,orange,green,blue,violet,purple);
+}
+
 article {
 
     background-color: rgb(142, 147, 164);
