@@ -19,6 +19,21 @@ h1 {
     position: relative;
   }
 
+  li {
+    text-align: start;
+    padding: 0.25rem;
+  }
+  
+  .card-list__item {
+    margin: 0 0 4rem;
+  }
+    
+  article {
+
+    background-color: rgb(176, 197, 203);
+    margin :2rem;
+  }
+
 #grad1 {
 	height:15rem;
   color:rgb(241, 244, 246);
@@ -52,19 +67,15 @@ h1 {
   background-color: rgb(249, 246, 246);
 }
 
+.form {
 
-article {
-
-    background-color: rgb(142, 147, 164);
-    margin :2rem;
+  background-color: red;
+  line-height: rem;
 }
- 
-  li {
-    text-align: start;
-    padding: 0.25rem;
-  }
-  
-  .card-list__item {
-    margin: 0 0 4rem;
-  }
-    
+
+
+.licolor {
+  margin:1rem;
+  background-color: rgb(176, 173, 169);
+  border-radius: 0.25rem;
+}
